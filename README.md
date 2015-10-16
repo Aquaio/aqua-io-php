@@ -30,7 +30,7 @@ Update your dependencies
 $ php composer.phar update
 ```
 
-> This package follows the `PSR-0` convention names for its classes, which means you can easily integrate these classes loading in your own autoloader.
+> This package follows the `PSR-4` convention names for its classes, which means you can easily integrate these classes loading in your own autoloader.
 
 #### Versions
 
