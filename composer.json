@@ -12,8 +12,8 @@
 	],
 	"keywords": ["aqua", "aqua.io", "api", "client", "library", "ICD", "ICD9", "ICD10", "ICD-9", "ICD-10", "meaningful use", "healthcare", "health", "EHR", "EMR", "medicine", "medical"],
 	"autoload": {
-		"psr-0": {
-			"Aqua-io\\": "lib/"
+		"psr-4": {
+			"AquaIo\\": "lib/"
 		}
 	},
 	"require": {
